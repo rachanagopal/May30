@@ -6,7 +6,9 @@ public class Sampleclass {
 
 
 		System.out.println("May 30");
-
+		
+		System.out.println("May 30=second");
+		
 	}
 
 }
